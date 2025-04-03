@@ -1,13 +1,3 @@
-# Changelog
-
-## Table des versions
-
-| Version | Date             | Changements principaux                                                                  |
-|---------|------------------|-----------------------------------------------------------------------------------------|
-| 1.3.0   | 03 avril 2025    | - Ajout d’un nouveau système de sécurité<br>- Amélioration de l’interface utilisateur    |
-| 1.2.0   | 15 mars 2025     | - Correction de bugs critiques<br>- Optimisation du temps de chargement                 |
-| 1.1.0   | 28 février 2025  | - Intégration d’un module de logs<br>- Support étendu pour le multi-langues              |
-
 ## Détails des versions
 
 ### Version 1.3.0 – 03 avril 2025
